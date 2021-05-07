@@ -1,0 +1,2 @@
+* Pick game 
+* JS CORE
